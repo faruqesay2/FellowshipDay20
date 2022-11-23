@@ -1,0 +1,5 @@
+C:\Users\naruto\Desktop\BridgeLabz\Day20\MoodAnalyserProgram\MoodAnalyserProgram\obj\Debug\netcoreapp3.1\MoodAnalyserProgram.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day20\MoodAnalyserProgram\MoodAnalyserProgram\obj\Debug\netcoreapp3.1\MoodAnalyserProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\Day20\MoodAnalyserProgram\MoodAnalyserProgram\obj\Debug\netcoreapp3.1\MoodAnalyserProgram.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day20\MoodAnalyserProgram\MoodAnalyserProgram\obj\Debug\netcoreapp3.1\MoodAnalyserProgram.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\Day20\MoodAnalyserProgram\MoodAnalyserProgram\obj\Debug\netcoreapp3.1\MoodAnalyserProgram.csproj.CoreCompileInputs.cache
